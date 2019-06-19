@@ -1,0 +1,2254 @@
+ID:EN
+1:7
+2:7
+3:7
+4:7
+5:7
+6:7
+7:7
+8:operation
+9:Three Kingdoms:the Last Warlord
+10:File
+11:Edit
+12:Tool
+13:Language
+14:Help
+15:New
+16:Open
+17:Save
+18:Save As
+19:Exit
+20:Copy
+21:Paste
+22:Cut
+23:Selectall
+24:Add
+25:Delete
+26:MoveUp
+27:MoveDown
+28:Import
+29:Export
+30:Check
+31:CN
+32:TC
+33:EN
+34:JP
+35:KR
+36:Help
+37:About
+38:New
+39:Open
+40:Save
+41:Save As
+42:Copy
+43:Paste
+44:Cut
+45:Delete
+46:Check
+47:Help
+48:Basic Playwriting Settings
+49:                       GUID:
+50:                      Name:
+51:           Duplicate name: 
+52:                   author:
+53:  External version number:
+54:  Internal version number:
+55:Compatible Version Number:
+56:                 describe:
+57:time setting:
+58:Beginning year:
+59:Beginning month:
+60:      End year:
+61:      End month:
+62:                  cover photo:
+63:General Wu
+64:Add 
+65:Insert
+66:Delete
+67:MoveUp
+68:MoveDown
+69:Import
+70:Export
+71:Urban Settings
+72:Import
+73:Export
+74:Army establishment
+75:Import
+76:Export
+77:Military establishment
+78:Insert
+79:Delete
+80:MoveUp
+81:MoveDown
+82:Import
+83:Export
+84:NPC Settings
+85:Insert
+86:Delete
+87:Import
+88:Export
+89:The Setting of General-in-Chief Relations
+90:Insert
+91:Delete
+92:MoveUp
+93:MoveDown
+94:Import
+95:Export
+96:Camp settings
+97:Insert
+98:Delete
+99:MoveUp
+100:MoveDown
+101:Import
+102:Export
+103:Camp Relations Setting
+104:Insert
+105:Delete
+106:MoveUp
+107:MoveDown
+108:Import
+109:Export
+110:Script
+111:Generals
+112:City
+113:Arms
+114:army
+115:NPC
+116:generals  Relations 
+117:camp
+118:Camp relations
+200:No.
+201:Name
+202:Surname
+203:First name
+204:Courtesy Name
+205:Gender
+206:Race
+207:BioⅠ
+208:BioⅡ
+209:Bio Ⅲ
+210:Born
+211:Dead
+212:Adult
+213:Portrait
+214:Duty
+215:Ambition
+216:Compatibility
+217:Duel Expansion
+218:Voice
+219:Rank type
+220:Grade
+221:Melee
+222:Range
+223:Melee type
+224:Duel type
+225:Born
+226:Job
+227:Loyalty
+228:Rank
+229:Reputation
+230:Infamy
+231:Apply
+232:Stats
+233:EXP
+234:Location
+235:Features
+236:Preference
+237:Appraise
+238:Achievement
+239:Infantry Commander
+240:Cavalry Commander
+241:Archer Commander
+242:Navy Commander
+243:Siege Commander
+244:Defend Commander
+245:Training
+246:Recruit
+247:Combat
+248:Valor
+249:Riding
+250:Archery
+251:Capture
+252:Strategy
+253:Tactics
+254:Calm
+255:Pillage
+256:Spy
+257:Farming
+258:Commerce
+259:Flood control
+260:Architecture
+261:Patrol
+262:Math
+263:Connections
+264:Virtue
+265:Debate
+266:Negotiate
+267:Academic
+268:Charm
+269:Rush
+270:Guard
+271:Charge
+272:Shoot
+273:Volley
+274:Fire Arrows
+275:Ambush
+276:Disorder
+277:Boost
+278:Interlocking
+279:Fire
+280:Forecast
+281:Rockfall
+282:Trap
+283:Misinform
+284:Taunt
+285:Settle
+286:Break
+287:Intrude
+288:Treasures
+300:No.
+301:Use
+302:Full Name
+303:Name
+304:Description
+305:Size
+306:Max Size
+307:Food Coefficient
+308:Gold Coefficient
+309:Reservist
+310:Population
+311:Defense
+312:Farming
+313:Commerce
+314:Flood Control
+315:Security
+316:Support
+317:Gold
+318:Food
+319:Prefect
+320:Camp
+400:No.
+401:Full Name
+402:Name
+403:Type
+404:Long-range attack
+405:Short-range attack
+406:Long-range defend
+407:Short-range defend
+408:Damage
+409:Mobility
+410:Range
+411:Movement point
+412:Shadow type
+413:Gold used for recruit
+414:Good used for recruit
+415:Food consumption for rising troops
+416:Gold consumption for rising troops
+417:Food consumption for deployment
+418:DescriptionⅠ
+419:DescriptionⅡ
+420:Description Ⅲ
+500:No.
+501:City
+502:Class type
+503:Army Troops
+504:EXP
+505:Morale
+506:Will
+507:Intro
+600:No.
+601:Full Name
+602:Surname
+603:First name
+604:Courtesy Name
+605:Gender
+606:Portrait
+607:Melee
+608:Range
+609:Melee type
+610:Duel type
+611:Duel Expansion
+612:Infantry Commander
+613:Cavalry Commander
+614:Archer Commander
+615:Navy Commander
+616:Siege Commander
+617:Defend Commander
+618:Training
+619:Recruit
+620:Combat
+621:Valor
+622:Riding
+623:Archery
+624:Capture
+625:Strategy
+626:Tactics
+627:Calm
+628:Pillage
+629:Spy
+630:Farming
+631:Commerce
+632:Flood control
+633:Architecture
+634:Patrol
+635:Math
+636:Connections
+637:Virtue
+638:Debate
+639:Negotiate
+640:Academic
+641:Charm
+642:Rush
+643:Guard
+644:Charge
+645:Shoot
+646:Volley
+647:Fire Arrows
+648:Ambush
+649:Disorder
+650:Boost
+651:Interlocking
+652:Fire
+653:Forecast
+654:Rockfall
+655:Trap
+656:Misinform
+657:Taunt
+658:Settle
+659:Break
+660:Intrude
+661:Location
+662:Description
+700:No.
+701:Officer
+702:Head
+703:Clan Tree
+704:Father
+705:Mother
+706:Children
+707:Spouse
+708:Sworn Siblings
+709:Intimate
+710:Trusted
+711:Familiar
+712:Ordinary
+713:Neutral
+714:Hate
+715:Foe
+800:No.
+801:Full Name
+802:Difficulty level
+803:Color
+804:Country
+805:Ruler
+806:Counsellor
+807:Minister
+808:Marshall
+809:Tech type
+810:Tech schedule
+811:Technology
+900:No.
+901:Camp
+902:Target Camp
+903:Relationship value
+904:Months Left for Alliance 
+1000:Please input the scenario's name.
+1001:New Scenario
+1002:Select Scenario
+1003:Opening the scenario, please wait…
+1004:Saving the scenario, please wait…
+1005:Import Officer List
+1006:Import City List
+1007:Import NPC List
+1008:Import Camp List
+1009:Import Class List
+1010:Import City troops List
+1011:Import Camp Relationship List
+1012:Import Officer Relation List
+1013:Three Kingdoms:the Last Warlord Scenario Editor
+1014:v0.1.1.0123
+1015:Three Kingdoms:the Last Warlord Game Scenario Editor
+1016:(C) 2019-2031 Chengdu Longyou Studio
+1017:大象
+1018:卡卡
+1019:阿斯兰大大
+1020:Longyou Official website
+1021:Please input the description:
+1022:Please input the description
+1023:Select officer's portrait
+1024:Please input the Bio Ⅲ:
+1025:Please input the Bio Ⅲ 
+1026:Please input the BioⅡ：
+1027:Please input the BioⅡ
+1028:Please input the BioⅠ：
+1029:Please input the BioⅠ
+5000:Female
+5001:Male
+5002:Han
+5003:Xiong Nu
+5004:Xian Bei
+5005:Wu Wan
+5006:Shan Yue
+5007:Nan Man
+5008:Di
+5009:Qiang
+5010:Beauty
+5011:Midlife
+5012:Male
+5013:Valor
+5014:Female
+5015:Civil male officer
+5016:Civil Officer
+5017:Military Officer
+5018:Long Weapon
+5019:Short Weapon
+5020:Arrow
+5021:Hidden Weapon
+5022:One Handed Sword
+5023:Two-Handed Sword
+5024:One Handed Blade
+5025:Two-Handed Blade
+5026:Long Blade
+5027:Spear
+5028:Lance
+5029:Halberd
+5030:Twin Halberd
+5031:Axe
+5032:Twin Flails
+5033:Mace
+5034:Unborn
+5035:Underage
+5036:Free
+5037:Duty
+5038:Prison
+5039:Prisoner with the army
+5040:Dead
+5041:NPC
+5042:Available
+5043:Power
+5044:Skill
+5045:Speed
+5046:Small City
+5047:Mudium City
+5048:Large City
+5049:Great City
+5050:Invalid
+5051:Small Pass
+5052:Mudium Pass
+5053:Large Pass
+5054:Great Pass
+5055:Invalid
+5056:Difficulty Lv1
+5057:Difficulty Lv2
+5058:Difficulty Lv3
+5059:Difficulty Lv4
+5060:Difficulty Lv5
+5061:Tech type1
+5062:Tech type2
+5063:Tech type3
+5064:Tech type4
+5065:Tech type5
+5066:Tech type6
+5067:Tech type7
+5068:Tech type8
+5069:Tech type9
+5070:Tech type10
+5071:Tech type11
+5072:Tech type12
+5073:Tech type13
+5074:Tech type14
+5075:Tech type15
+5076:Tech type16
+5077:Tech type17
+5078:Tech type18
+5079:Tech type19
+5080:Tech type20
+5081: 
+5082:Liao
+5083:Yan
+5084:Zhao
+5085:Ming
+5086:Jin
+5087:Yuan
+5088:Sui
+5089:Song
+5090:Wei
+5091:Qin
+5092:Zhou
+5093:Shu
+5094:Qing
+5095:Wu
+5096:Tang
+5097:Han
+5098:Xia
+5099:Shang
+5100:Qi
+5101:Wei
+5102:Chen
+5103:Zheng
+5104:Liang
+5105:Chu
+5106:Yue
+5107:Cai
+5108:Ba
+5109:Lu
+5110:Han
+5111:Liang
+5112:Jin
+5113:Tan
+5114:Xu
+5115:Xi
+5116:Shun
+5117:Dai
+5118:Qi
+5119:Bei
+5120:Ju
+5121:Su
+5122:Guo
+5123:Dian
+5124:Qian
+5125:Yue
+5126:Gui
+5127:Qiong
+5128:Min
+5129:Gan
+5130:Xiang
+5131:E
+5132:Wan
+5133:Zhe
+5134:Yu
+5135:Shan
+5136:Long
+5137:Ning
+5138:Meng
+5139:Ji
+5140:Hei
+5141:Xin
+5142:Zang
+5143:Qing
+5144:Ji
+5145: 
+5146:Light Infantry
+5147:Heavy Infantry
+5148:Armored Raiders
+5149:Elite Raiders
+5150:Shu's Royal Guard
+5151:Elite Rangers
+5152:Elite Pikemen
+5153:Wu's Royal Guard
+5154:Heavy Spearmen
+5155:Yellow Turban Footmen
+5156:Nan Man Warriors
+5157:Shan Yue Warriors
+5158:Light Cavalry
+5159:Heavy Cavalry
+5160:Liang Cavalry
+5161:Flying Bear Cavalry
+5162:White Riders
+5163:Tiger Cavalry
+5164:War Elephants
+5165:WuHuan Horsemen
+5166:Xian Bei Horsemen
+5167:Qiang Horsemen
+5168:Di Horsemen
+5169:Yellow Turban Horsemen
+5170:Light Bowmen
+5171:Crossbowmen
+5172:Elite Crossbowmen
+5173:Chu-ko-nu Squad
+5174:WuXi Warriors
+5175:Yellow Turban Bowmen
+5176:Spearmen
+5177:Scout ship
+5178:Light Warship
+5179:Warship
+5180:Greatship
+5181:Fire Boat
+5182:Ballista
+5183:Battering Ram
+5184:Siege Tower
+5185:Trebuchet
+5186:Catapult
+5187:Spear Cart
+5188:Barricades
+5189:Gate
+5190:Flag
+5191:L-Cavalry(Dismount)
+5192:H-Cavalry(Dismount)
+5193: 
+5194:Le Lang
+5195:Xiang Ping
+5196:Bei Ping
+5197:Ji
+5198:Zhong Shan
+5199:Nan Pi
+5200:Ye
+5201:Ping Yuan
+5202:Bei Hai
+5203:Jin Yang
+5204:Shang Dang
+5205:Pu Yang
+5206:Chen Liu
+5207:Xu Chang
+5208:Xiao Pei
+5209:Ru Nan
+5210:Xia Pi
+5211:Hong Nong
+5212:Luo Yang
+5213:Guang Ling
+5214:Shou Chun
+5215:Chang An
+5216:An Ding
+5217:Tian Shui
+5218:Wu Wei
+5219:Jin Cheng
+5220:Wu Du
+5221:Han Zhong
+5222:Cheng Du
+5223:Zi Tong
+5224:Jiang Zhou
+5225:Jian Wei
+5226:Yong An
+5227:Jian Ning
+5228:Zang Ke
+5229:Yong Chang
+5230:Yue Xi
+5231:Wan
+5232:Xin Ye
+5233:Shang Yong
+5234:Xiang Yang
+5235:Jiang Xia
+5236:Jiang Ling
+5237:Chang Sha
+5238:Wu Ling
+5239:Gui Yang
+5240:Ling Ling
+5241:Jian Ye
+5242:Lu Jiang
+5243:Wu
+5244:Hui Ji
+5245:Jian An
+5246:Yu Zhang
+5247:Yi Zhou
+5248:Nan Hai
+5249:He Pu
+5250:Jiao Zhi
+5251:Zhu Ya Zhou
+5252:Hu Pass
+5253:Hu Lao Pass
+5254:Han Gu Pass
+5255:Wu Pass
+5256:Tong Pass
+5257:Yang Ping Pass
+5258:Jia Meng Pass
+5259:Jian Men Pass
+5260:Mian Zhu Pass
+5261:Di
+5262:Qiang
+5263:Xiong Nu
+5264:Xian Bei
+5265:Wu Wan
+5266:Shan Yue
+5267:Ye Ma Tai
+5268:Infantry
+5269:Cavalry
+5270:Archer
+5271:Warship
+5272:Weapon
+5273:No Range
+5274:Range 1
+5275:Range 2
+5276:Range 3
+5277:Range 4
+5278:Range 5
+5279:Range 6
+5280:Range 7
+5281:no
+5282:Shadow 1
+5283:Shadow 2
+5284:Shadow 3
+5285:Shadow 4
+5286:Long-Blade
+5287:Axe
+5288:One-Handed
+5289:Rod-Rammer
+5290:Halberd
+5291:Polearms
+5292:Twin Sword
+5293:Female-Officer
+5294:Dian Wei
+5295:Gan Ning
+5296:Guan Yu
+5297:Huang Zhong
+5298:Lu Bu
+5299:Ma Chao
+5300:Sha Moke
+5301:Pang De
+5302:Sun Ce
+5303:Sun Jian
+5304:Tai Shi Ci
+5305:Xu Huang
+5306:Xu Chu
+5307:Zhang Fei
+5308:Zhang Liao
+5309:Zhao Yun
+5310:Zhu Rong
+5311:Commoner
+5312:Chief Policy Officer
+5313:Chief Document Officer
+5314:Chief Water Controler of County
+5315:Chief Market Manager of County
+5316:Chief Briefer underr of County
+5317:Chief Advisor of County
+5318:Chief Recorder of County
+5319:Chief Councilor of County
+5320:Chief Law Officer of County
+5321:Chief Officer of Postal Service
+5322:Chief Judge of County of County
+5323:Chief Financial Officer
+5324:Chief Farming Officer of County
+5325:Chief Revenue Officer of County
+5326:Chief Civil Officer of County
+5327:Chief Military Officer of County
+5328:Chief Security Officer of County
+5329:Chief Transportation Officer
+5330:Watchman 
+5331:Warder
+5332:Inspection Deputy of Prefect
+5333:Prince's Herald
+5334:Armory Officer
+5335:Imperial Attendant
+5336:Rider
+5337:Commandant of County
+5338:County Commandant
+5339:Officer in Charge of Weapons 
+5340:Cloth Officer
+5341:Rice Officer
+5342:Officer of Coin Casting
+5343:Magistrate's Chief Officer
+5344:Magistrate's Secretary
+5345:Police Commissioner
+5346:Vice Magistrate
+5347:Magistrate
+5348:County Leader
+5349:Grand General's Lieutenant
+5350:Procurator's Herald
+5351:Imperial Doorman
+5352:Herald of Communication
+5353:Herald of Grant
+5354:Herald of Empress's Secretary
+5355:Messenger of the Emperor
+5356:Officer of Iron Smelting 
+5357:Imperial Herald of Ceremony
+5358:Chief Imperial Herald
+5359:Senior Water Controler 
+5360:Senior Market Manager
+5361:Senior Briefer of County
+5362:Senior Advisor of County
+5363:Senior Recorder of County
+5364:Senior Councilor of County
+5365:Senior Law Officer of County
+5366:Senior Officer of Postal Service
+5367:Senior Judge of County
+5368:Senior Financial Officer of County
+5369:Senior Farming Officer of County
+5370:Senior Revenue Officer of County
+5371:Senior Civil Officer of County
+5372:Senior Military Officer of County
+5373:Senior Security Officer of County
+5374:Senior Transportation Officer
+5375:Commander of Right Support
+5376:Commander of Left Support
+5377:Commander of Right Army
+5378:Commander of Left Army
+5379:Commander of Rear Army
+5380:Commander of Mudium Army
+5381:Commander of Front Army
+5382:Commander of Imperial Guards
+5383:Court Historian's Senior Officer
+5384:Historiographer's  Officer
+5385:Aide to Chief of Secretariat
+5386:Vice Officer in Charge of Tokens
+5387:Imperial Spokesman's Officer
+5388:Hand of Minister of Construction
+5389:Aide to Minister of Construction
+5390:Market Manager
+5391:Aide to Minister of Medicine
+5392:Aide to Master of Augury
+5393:Aide to Master of Rite Tableware
+5394:Aide to Master of Prayer
+5395:Aide to Master of Enjoyment
+5396:Aide to Court Historian
+5397:Commander of Tombs
+5398:Commander of Chariots
+5399:Commander of Cavalry
+5400:Commander of the Mudium
+5401:General of the Northern Front
+5402:General of the Western Front
+5403:General of the Southern Front
+5404:General of the Eastern Front
+5405:Vice Water Controler of County
+5406:Vice Market Manager of County
+5407:Vice Briefer of County
+5408:Vice Advisor of County
+5409:Vice Recorder of County
+5410:Vice Councilor of County
+5411:Vice Law Officer of County
+5412:Vice Officer of Postal Service
+5413:Vice Judge of County
+5414:Vice Financial Officer
+5415:Vice Farming Officer of County
+5416:Vice Revenue Officer of County
+5417:Vice Civil Officer of County
+5418:Vice Master of C&E
+5419:Vice Education Officer of County
+5420:Right General Officer
+5421:Chief Household Officer of County
+5422:Left General Officer
+5423:Vice Substitute Officer of County
+5424:Vice Military Officer of County
+5425:Vice Security Officer of County
+5426:Vice Transportation Officer
+5427:Military Inspector
+5428:Acting PM's Assistant
+5429:Deputy General
+5430:Assistant General
+5431:Garrison Commander
+5432:Chief Education Officer of County
+5433:Aide to Minister of Justice
+5434:Aide to Prime Minister
+5435:Procurator's Chief Officer
+5436:Right-hand Advisor
+5437:Left-hand Advisor
+5438:Chief Commander of Tomb Wealth
+5439:Chief Commander of Bodyguard
+5440:Right Chief Commander
+5441:Left Chief Commander
+5442:Chief Commander of Affairs
+5443:Chief Commander of Suinan
+5444:Chief Commander of Integrity
+5445:Chief Commander of Warfare
+5446:Chief Commander of Safeguard
+5447:Vice Chief of Secretariat
+5448:Senior Chief of Secretariat
+5449:Imperial Patrol of the Left
+5450:Imperial Patrol of the Right
+5451:Chief Counsellor
+5452:Commandant of Farming
+5453:Commandant of Farming
+5454:General of Boast
+5455:General against Enemies
+5456:General Against Rebels
+5457:General against Insurgents
+5458:General of Fire
+5459:General of Towered Ship
+5460:General of the River Guard
+5461:General of Brotherhood
+5462:General of the Front Guard
+5463:General of Warfare
+5464:General of Devotion
+5465:General of Spirit
+5466:General of Battlefield
+5467:General of Guerrilla Tactics
+5468:General of Cleaning up Bandits
+5469:General against Bandits
+5470:General of Eliminating Bandits
+5471:General of Blades
+5472:General of Spears
+5473:General of Pacification
+5474:Procurator's Vice Officer
+5475:Procurator's Chief Officer
+5476:Master of Weapon Products
+5477:Chief Guard of the North Palace
+5478:Chief Guard of the South Palace
+5479:Chief Guard of Emperor's Ave.
+5480:Imperial Herald at Service
+5481:Imperial Herald
+5482:Chief Officer
+5483:Supervisor of Food
+5484:High Priest
+5485:Chief Advisor of County
+5486:General's Chief Advisor
+5487:General of light Cavalry
+5488:General of Valiant Cavalry
+5489:General of Safeguard
+5490:General of Army Protection
+5491:General of Army Leading
+5492:Counsellor&General
+5493:Officer of Flood Control
+5494:Imperial Senior Servant
+5495:Imperial Chief Servant
+5496:Aide to Imperial Attendant
+5497:Officer of Etiquette
+5498:Senior Advisor
+5499:Chief Advisor
+5500:Director of Construction
+5501:Grand Advisor
+5502:General of Peace
+5503:General of Wings
+5504:General of Manifestation
+5505:General of Loyalty
+5506:General of Crusades
+5507:General of Captures
+5508:General of Rivers
+5509:General of Tiger Powers
+5510:General of Farsight
+5511:General of Impulsion
+5512:General of Tiger Fierceness
+5513:General of Oppressing Enemy
+5514:General of Eagles
+5515:General of Pacifying the West
+5516:General of Pacifying the North
+5517:General of Pacifying the South
+5518:General of Pacifying the East
+5519:Minister of Medicine
+5520:Master of Augury
+5521:Master of Rites Tablewares
+5522:Master of Prayer
+5523:Master of Enjoyment
+5524:Court Historian
+5525:Officer in Charge of Tokens
+5526:Doctor
+5527:Counsellor
+5528:Prince's Chief Senior Secretary
+5529:Prince's Near Official
+5530:Officer of Prosecution under PM
+5531:Prime Minister's Senior Officer
+5532:Prime Minister's  Officer
+5533:Prime Minister's  Secretary
+5534:Vice Imperial Procurator
+5535:Chief Imperial Procurator
+5536:Counsellor of the Mudium
+5537:Counsellor of the Right
+5538:Counsellor of the Right
+5539:Venerable Counsellor of Rear
+5540:Venerable Counsellor of Front
+5541:General of Northern Peace
+5542:General of Western Peace
+5543:General of Southern Peace
+5544:General of Eastern Peace
+5545:Assistant Minister of Concierge
+5546:Aide to Minister of Finance
+5547:Assistant Chief Guard
+5548:Vice Imperial Manager
+5549:Aide to Royal Family Secretary
+5550:Commander of Farming
+5551:Commander of Imperial Cavalry
+5552:Imperial Corps Commander of Footmen
+5553:Corps Commander of Chariots
+5554:Commander of Archery
+5555:Commander of Infantry
+5556:Commander of the Cavalry
+5557:Commander of Horsemen
+5558:Commander of Gates
+5559:Commander of Rivers
+5560:General of Mudium Grounds
+5561:General of Mudium Forts
+5562:General of Mudium Guards
+5563:General of the Northern Guard
+5564:General of the Western Guard
+5565:General of the Southern Guard
+5566:General of the Eastern Guard
+5567:Guard of Palaces
+5568:Aide to Minister of Justice
+5569:Vice Imperial Senior Secretary
+5570:Aide to Master of C&E
+5571:Vice Leader of Imperial Guard
+5572:Chief of Secretariat
+5573:Proposals Officer
+5574:Chief Commander of Farming
+5575:General of Northern Conquest
+5576:General of Western Conquest
+5577:General of Southern Conquest
+5578:General of Eastern Conquest
+5579:Officer in the Capital
+5580:Senior Officer in the Capital
+5581:Chief Officer in the Capital
+5582:Minister's Chief Officer
+5583:Imperial Senior Attendant
+5584:Assistant Minister of Finance
+5585:Vice Royal Family Secretary II
+5586:Manager of Imperial Life Affairs
+5587:Imperial Senior Secretary II
+5588:Minister of Construction
+5589:Minister of Justice
+5590:Chief Guard of Palace Gate
+5591:General of Crossing Seas
+5592:General of Northern Frontier
+5593:General of Champions
+5594:General of Light Chariots
+5595:General of Tiger Teeth
+5596:General of Country Support
+5597:General of Overcoming Calamity
+5598:General of Defeating Rebels
+5599:General of Defeating Pirates
+5600:General of Suppressing Bandits
+5601:General of Crossbows
+5602:General of Arrows
+5603:General of Bows
+5604:General of Remotes
+5605:General of Safety
+5606:General of Security
+5607:General of Protection
+5608:General of the Army Guard
+5609:Imperial Chief Attendant
+5610:Chief Secretary of Empress
+5611:Minister of Government
+5612:Imperial Spokesman
+5613:Imperial Secretary
+5614:Minister's Chief Secretary
+5615:Chief of the Capital Guard
+5616:Venerable General of Rear
+5617:General of the Right
+5618:General of the Left
+5619:Venerable General of Front
+5620:Minister of Concierge
+5621:Minister of Finance
+5622:Chief Guard of Palace
+5623:Manager of Imperial Life Affairs
+5624:Royal Family Secretary I
+5625:Minister of Justice
+5626:Imperial Senior Secretary I
+5627:Master of Culture and Education
+5628:Chief of Imperial Guard
+5629:General of Consolation
+5630:General of the Central Army
+5631:General of Chariots
+5632:General of the Cavalry
+5633:Minister of Supervision
+5634:Minister of Finance Affairs
+5635:Chief in Honor
+5636:Grand Preceptor
+5637:Imperial Grand Counsellor
+5638:Prime Minister
+5639:General of Martial Might
+5640:Commander the Right
+5641:Commander of the Left
+5642:Chairman of the Military
+5643:Chief Military Governor
+5644:Grand General
+5645:Grand Marshal
+5646:Duke
+5647:King
+5648:Emperor
+6000:Light Infantry
+6001:Heavy Infantry
+6002:Armored Raiders
+6003:Elite Raiders
+6004:Shu's Royal Guard
+6005:Elite Rangers
+6006:Elite Pikemen
+6007:Wu's Royal Guard
+6008:Heavy Spearmen
+6009:Yellow Turban Footmen
+6010:Nan Man Warriors
+6011:Shan Yue Warriors
+6012:Light Cavalry
+6013:Heavy Cavalry
+6014:Liang Cavalry
+6015:Flying Bear Cavalry
+6016:White Riders
+6017:Tiger Cavalry
+6018:War Elephants
+6019:WuHuan Horsemen
+6020:Xian Bei Horsemen
+6021:Qiang Horsemen
+6022:Di Horsemen
+6023:Yellow Turban Horsemen
+6024:Light Bowmen
+6025:Crossbowmen
+6026:Elite Crossbowmen
+6027:Chu-ko-nu Squad
+6028:WuXi Warriors
+6029:Yellow Turban Bowmen
+6030:Spearmen
+6031:Scout ship
+6032:Light Warship
+6033:Warship
+6034:Greatship
+6035:Fire Boat
+6036:Ballista
+6037:Battering Ram
+6038:Siege Tower
+6039:Trebuchet
+6040:Catapult
+6041:Spear Cart
+6042:Barricades
+6043:Gate
+6044:Flag
+6045:L-Cavalry(Dismount)
+6046:H-Cavalry(Dismount)
+7000:BaoDan
+7001:BianYuan
+7002:CaiLeng
+7003:CaoSong
+7004:ChenQiu
+7005:GuoYun
+7006:HuangChengYan
+7007:EmperorXianofHan
+7008:PangDe
+7009:PangZiXia
+7010:PeiMao
+7011:QiaoGong
+7012:SunChuo
+7013:TangMao
+7014:WangJi
+7015:WangLingGong
+7016:XiahouWenLing
+7017:XunShu
+7018:YangXu
+7019:YingXun
+7020:YuanPang
+7021:ZhangYan
+7022:ZhangHeng
+7023:ZhengXuan
+7024:ZhouShu
+7025:ZhugeGui
+7026:FanQiang
+7027:GuoYong
+7028:ZhouShi
+7029:XiZhen
+7030:GuanDing
+7031:Voice-over
+7032:Pirate
+7033:Brigand
+7034:Brigand
+7035:Pirate
+7036:Bandit
+7037:Pirate
+7038:Robber
+7039:Pirate
+7040:Bandit
+7041:Brigand
+7042:Bandit
+7043:Bandit
+7044:Bandit
+7045:Highwayman
+7046:Highwayman
+7047:Pirate
+7048:Bandit
+7049:Highwayman
+7050:Bandit
+7051:Bandit
+7052:CivilOfficer
+7053:Messenger
+7054:Boy
+7055:Girl
+7056:Troops
+7057:Troops
+7058:CaptionofPatrol
+7059:CaptionofCavalry
+7060:CaptionofArcher
+7061:Guard
+7062:Guard
+7063:CaptionofGuard
+7064:Civilian
+7065:Civilian
+7066:Civilian
+7067:Farmer
+7068:Farmer
+7069:OldFarmer
+7070:Pedlar
+7071:Pedlar
+7072:Merchant
+7073:Landlord
+7074:Refugee
+7075:Refugee
+7076:YoungMan
+7077:Girl
+7078:Lady
+7079:Elder
+7080:OldWoman
+7081:Officer
+7082:Officer
+7083:Hooligan
+7084:Bandits
+7085:Doctor
+7086:Blacksmith
+7087:Master
+7088:Hostess
+7089:Waiter
+7090:Zhang'sTradeCaravan
+7091:Zhen'sTradeCaravan
+7092:Wei'sTradeCaravan
+7093:Mi'sTradeCaravan
+7094:Qin'sTradeCaravan
+7095:Cai'sTradeCaravan
+7096:Lu'sTradeCaravan
+7097:SimaHui
+7098:MiHeng
+7099:GuanLu
+7100:ZhuJianping
+7101:XuZijiang
+7102:ZhengXuan
+7103:NanHuaLaoXian
+7104:ZuoCi
+7105:WangHePing
+7106:YuJi
+7107:HuaTuo
+7108:WangShuHe
+7109:DongFeng
+7110:WuPu
+7111:FangA
+7112:LiDangZhi
+7113:ZhengHun
+7114:PuYuan
+7115:OuLeng
+7116:GuoDa
+7117:WangYue
+7118:ShiA
+7119:HanLong
+7120:ZhuGongDao
+7121:PangDe
+7122:SunDeng
+7123:HuZhao
+7124:MengJie
+7125:ZiXunShangRen
+7126:LiDing
+7127:LiYi
+7128:PuJing
+7129:ZhaoDa
+7130:TongYuan
+7131:ZhangJian
+7132:ZhouShu
+7133:Messenger
+7134:Boy
+7135:Troops
+7136:Guard
+7137:Patrol
+7138:Patrol
+7139:Archer
+7140:CaptionofSoldier
+7141:Soldier
+7142:Soldier
+7143:Guard
+7144:PatrolTeam
+7145:Patrol
+7146:Patrol
+7147:Civilian
+7148:Civilian
+7149:Civilian
+7150:Civilian
+7151:Civilian
+7152:Civilian
+7153:Civilian
+7154:Civilian
+7155:Civilian
+7156:StrongMan
+7157:StrongMan
+7158:Pedlar
+7159:GroceryMerchant
+7160:ClothMerchant
+7161:RiceMerchant
+7162:TavernMerchant
+7163:TeaMerchant
+7164:Blacksmith
+7165:StrongMan
+7166:Civilian
+7167:Civilian
+7168:Artisan
+7169:TavernKeeper
+7170:CaptionofGuard
+7171:PrefectofEmptyCity
+7172:LeLangTaxCollector
+7173:XiangPingTaxCollector
+7174:BeiPingTaxCollector
+7175:JiTaxCollector
+7176:ZhongShanTaxCollector
+7177:NanPiTaxCollector
+7178:YeTaxCollector
+7179:PingYuanTaxCollector
+7180:BeiHaiTaxCollector
+7181:JinYangTaxCollector
+7182:ShangDangTaxCollector
+7183:PuYangTaxCollector
+7184:ChenLiuTaxCollector
+7185:XuChangTaxCollector
+7186:XiaoPeiTaxCollector
+7187:RuNanTaxCollector
+7188:XiaPiTaxCollector
+7189:HongNongTaxCollector
+7190:LuoYangTaxCollector
+7191:GuangLingTaxCollector
+7192:ShouChunTaxCollector
+7193:ChangAnTaxCollector
+7194:AnDingTaxCollector
+7195:TianShuiTaxCollector
+7196:WuWeiTaxCollector
+7197:JinChengTaxCollector
+7198:WuDuTaxCollector
+7199:HanZhongTaxCollector
+7200:ChengDuTaxCollector
+7201:ZiTongTaxCollector
+7202:JiangZhouTaxCollector
+7203:JianWeiTaxCollector
+7204:YongAnTaxCollector
+7205:JianNingTaxCollector
+7206:ZangKeTaxCollector
+7207:YongChangTaxCollector
+7208:YueXiTaxCollector
+7209:WanTaxCollector
+7210:XinYeTaxCollector
+7211:ShangYongTaxCollector
+7212:XiangYangTaxCollector
+7213:JiangXiaTaxCollector
+7214:JiangLingTaxCollector
+7215:ChangShaTaxCollector
+7216:WuLingTaxCollector
+7217:GuiYangTaxCollector
+7218:LingLingTaxCollector
+7219:JianYeTaxCollector
+7220:LuJiangTaxCollector
+7221:WuTaxCollector
+7222:HuiJiTaxCollector
+7223:JianAnTaxCollector
+7224:YuZhangTaxCollector
+7225:YiZhouTaxCollector
+7226:NanHaiTaxCollector
+7227:HePuTaxCollector
+7228:JiaoZhiTaxCollector
+7229:ZhuYaZhouTaxCollector
+7230:WuWanTaxCollector
+7231:XianBeiTaxCollector
+7232:XiongNuTaxCollector
+7233:QiangTaxCollector
+7234:DiTaxCollector
+7235:ShanYueTaxCollector
+7236:YeMaTaiTaxCollector
+7237:TaxCollector
+7238:TaxCollector
+7239:Prefect
+7240:Prefect
+7241:Prefect
+7242:Prefect
+7243:Prefect
+7244:Prefect
+7245:Prefect
+7246:Prefect
+7247:Prefect
+7248:Prefect
+7249:Prefect
+7250:Prefect
+7251:Prefect
+7252:Prefect
+7253:Prefect
+7254:Prefect
+7255:Prefect
+7256:Prefect
+7257:Prefect
+7258:Prefect
+7259:Prefect
+7260:Prefect
+7261:Prefect
+7262:Prefect
+7263:Prefect
+7264:Prefect
+7265:Prefect
+7266:Prefect
+7267:Prefect
+7268:Prefect
+7269:Prefect
+7270:Prefect
+7271:Refugee
+7272:Refugee
+7273:Refugee
+7274:Refugee
+7275:Refugee
+7276:Refugee
+7277:Refugee
+7278:Refugee
+7279:Refugee
+7280:Refugee
+8000:House of Three Dukes: There are 3 Dukes amongst four generations of Yuan's.
+8001:Confucius Descendants: Confucius' descendants in Qu Fu
+8002:Yellow Turban: Once a member of the Yellow Turban Army
+8003:Royal Descendants: Descendants of the royal family of Han
+8004:House of the Fire Spirit: A supposed descendant of the legendary spirit of fire
+8005:Yellow Turban Leader: The three leaders of the Yellow Turban Army, including the General of Heaven, the General of Land and the General of the People.
+8006:Wudoumi Religion: Zhang Lu is the leader of the Tianshi sect of Taoism
+8007:Nan Man King: The most powerful king of the tribes in Nan Man
+8008:Wu Xi King: The leader of the Shan Yue tribe in Wu Ling
+8009:Sun Tzu Descendants: Sun Jian is a descendant of the famous tactician Sun Tzu
+8010:Nan Man Ally: Getting close to the leaders of Nan Man is helpful to pacify the people of Nan Man.
+8011:Xiong Nu Ally: Getting close to the leaders of Xiong Nu is helpful to pacify the people of Xiong Nu.
+8012:Xian Bei Ally: Getting close to the leaders of Xian Bei is helpful to pacify the people of Xian Bei.
+8013:Di Ally: Getting close to the leaders of Di is helpful to pacify the people of Di.
+8014:Shan Yue Ally: Getting close to the leaders of Shan Yue is helpful to pacify the people of Shan Yue.
+8015:Wu Wan Ally: Getting close to the leaders of Wu Wan is helpful to pacify the people of Wu Wan.
+8016:Qiang Ally: Getting close to the leaders of Qiang is helpful to pacify the people of Qiang.
+8017:Four Bandits: Four brutal leaders of the Liang Army that are subordinates of Dong Zhuo
+8018:Bandits of Mount Tai: The four bandits who lived on Mount Tai in the late Eastern Han dynasty
+8019:Dragon Brother: The combination of Hua Xin, Guan Ning and Bing Yuan.
+8020:White Horse General: The two famous generals who like to ride white horses.
+8021:Four Beauties: The four most beautiful ladies in ancient China
+8022:Four Uglies: The four most ugly ladies in ancient China
+8023:Five Tigers of House Han: The combination of Han De and his four sons from Liang, in the state of Wei
+8024:Eight Master Generals: The eight brave generals serving under Lu Bu
+8025:Eight Capable Ministers: The eight capable ministers, including Zhang Miao
+8026:Eight Talents: The eight talents from Jiang Xia
+8027:Two Generals of Guiyang: Cheng Ying and Bao Long were called the "Two Generals of Gui Yang"
+8028:Zhuge's Friends: Zhuge Liang's four close friends in Nan Yang
+8029:Eight of House Sima: Sima Fang's eight sons
+8030:Eight Captains of the West Palace: The Eight Captains of the West Palace appointed by Emperor Ling to weaken He Jin's military power
+8031:Tiger of the South East: Sun Jian was called the "Fierce Tiger" of Jiang Dong
+8032:Two Masters: Wei Guan and Suo Jing were both good at stylized calligraphy
+8033:God of Spears: The three famous generals who learned from the Grandmaster of Spears, Tong Yuan
+8034:Cao Pi's Friends: The four trusted ministers who helped Cao Pi to rise to the throne
+8035:Huainan Rebels: Sima's dictatorship caused three rebellion uprisings in Huainan led by three charismatic masterminds.
+8036:Three Ministers of Wei: Zhong Yao/Hua Xin/Wang Lang were high-ranking officials of the state of Wei
+8037:Three Conquerors of Wei: Wang Chang/Hu Zun/Guanqiu Jian were commanders of the border-provinces of Wei, who led numerous troops
+8038:Five Elite Generals: The five excellent military officers who made great contributions to Wei in its early history
+8039:Eight Gentlemen of Wei: The eight virtuous and capable ministers of Wei and Jin, all of whom were awarded the posthumous title, "Marquis Su"
+8040:Seven Writers of Han: The seven litterateurs in the late Eastern Han dynasty
+8041:Seven Wisdoms: The seven talents of Wei and Jin, who often enjoyed drinking wine in the bamboo forest in Shan Yang
+8042:Four Elites of Xiahou: Xiahou Yuan's four meritorious sons
+8043:Eight Tigers of House Cao: Cao Cao's eight excellent generals
+8044:Four Wises of Wei: The four wise men of Wei
+8045:Six Governors: The six great prefectural governors highly appraised by Chen Shou, the author of "The History of the Three Kingdoms"
+8046:Three Dogs: He Yan/Deng Yang/Ding Mi were called the "Three Dogs of Tai Zhong"
+8047:The Zhang Twins: Zhang Zhao and Zhang Xuan who served Wu
+8048:Five Ministers of Wu: The five capable ministers of Wu that were highly regarded by their peers
+8049:Four Commanders of Wu: The four most trustworthy ministers who made great contributions to the founding and rise of the Wu government
+8050:Twelve Tigers of Wu: The twelve meritorious generals of Wu
+8051:Four Wises of Wu: The four capable ministers of Wu, who respectively attained great achievements in literature/military science/politics
+8052:Eight Artists of Wu: The eight able persons of Wu, who respectively attained great achievements in chess/calligraphy and paintings/oneiromancy/physiognomy/fortunetelling
+8053:Four Remarkables of Xuzhou: The four nobodies from Xu Zhou who ended up having a big influence on the history of the Three Kingdoms
+8054:Four Generals of Hebei: Yuan Shao's four bravest generals
+8055:Eight Advisers of Hebei: Yuan Shao's eight well-known advisers
+8056:Five Tigers of Jingnan: The five brave generals who fought against Liu Bei when he attacked the four commanderies in the south of Jing Province
+8057:Ten Generals of Guanzhong: The ten rebel forces in Liang, which rebelled in the late Eastern Han dynasty
+8058:Four Generals of West Yi: The combination of four generals who served under Liu Zhang, the ruler of Yizhou
+8059:Five Tiger Generals: The top five military officers who served under Liu Bei and made great contributions to Shu
+8060:Four Ministers of Shu: The four capable ministers of Shu
+8061:Four Rangers: The four brave and iron-willed heroes mentioned in the history books
+8062:Brocade Pirate: Gan Ning was once a bandit who liked to dress very eccentrically
+8063:Doctor of South Jiaozhou: Shi Xie was honored as the Master of Education in Jiao Zhou
+8064:Pretty Guan: Guan Suo's nickname
+8065:Crouching Dragon: Zhuge Liang was nicknamed "Crouching Dragon"
+8066:Fledgling Phoenix: Pang Tong was nicknamed "Fledgling Phoenix"
+8067:Lord Yang: Yang Hu rose to power by virtuous means, so people honored him as Sir Yang
+8068:Flying General: Lu Bu was better at horsemanship, archery and leading cavalry troops to battle than any other person in his era.
+8069:Snow Beauty: Liu Bei's wife, Lady Gan was as beautiful and charming as jade.
+8070:Bow Beauty: Sun Shangxiang had been practicing martial arts passionately since she was very young. She often wore her bow on her waist.
+8071:Lady Craft: Sun Quan's wife, Lady Zhao was good at picture-weaving in silk/embroidery/making drapery.
+8072:Blader: Cai Yang, a master of swords, who served under Cao Cao
+8073:Goddess of the Luo River: Due to Cao Zhi's [Ode to the Goddess of the Luo River], Zhen Fu was honored as the Goddess of the Luo River.
+8074:Domestic Scholar: Lu Zhi was widely known for his capabilities and prestige
+8075:Crazy Tiger: Xu Chu was brave like a tiger, so he was also called the tiger general
+8076:God of Archery: Huang Zhong was regarded as the best archer in the late Eastern Han dynasty
+8077:Top Counsellor: Xun Yu, the chief adviser to Cao Cao
+8078:Script Originator: Zhong Yao, the founder of regular script calligraphy
+8079:Young Overlord: Sun Ce was very brave in battle. He once killed a general merely by holding him in his arm and killed another merely by shouting.
+8080:Flying Rider: Zhang Yan, the leader of the Black Mountain Army, could move extremely swiftly.
+8081:King of Spears: Zhang Xiu's father was Zhang Ji who was once a warlord dominating over Liang Province. He learned spearplay from Tong Yuan.
+8082:Ancient evil: Cao Cao regarded Dian Wei as his bravest general
+8083:Handsome Ma: Ma Chao was good-looking, excelled at martial arts, and he often wore gorgeous robes.
+8084:Smart Liang: Ma Liang and his four brothers were all well-known for their capabilities, and he was considered better than his brothers.
+8085:Justice of the Ocean: Mi Zhu was well-known for integrity and frankness.
+8086:Noble Character: Guo Yi regarded Yang Hu as "Yan Hui", to highlight his gracious morals.
+8087:Recluse: Lou Gui lived in seclusion on Mount Zhongnan
+8088:Medical Sage: Zhang Zhongjing was the famous doctor who established the fundamental principles of traditional Chinese clinical medicine
+8089:Originator of Acupuncture: Huangfu Mi, a famous medical scientist in Wei and Jin, was the founder of acupuncturology
+8090:Math Sage: Liu Hong, a famous mathematician in the late Eastern Han dynasty, invented abacus calculation with negative and positive numbers
+8091:Confucius Inheritor: Qiao Zhou, the well-known master whose students included many distinguished men such as Chen Shou, Li Mi, Luo Xian and Du Zhen
+8092:Justice Minister: Shan Tao was once offered expensive silk as a bribe. He hung the silk threads on roof beams where they got all dusty
+8093:Three Skills: Shen You was good at writing, debating, and swordplay
+8094:Winebibber: Liu Ling, a true winebibber
+8095:Dutiful Son I: Wang Xiang once laid on the icy lake to catch fish for his mother
+8096:Sweet Lover: Wang Rong's wife often called her husband by loving nicknames
+8097:Memory Faraway: When Wang Rong passed by a tavern after his friends Ji Kang and Ruan Ji died, he sighed, since the tavern felt much more distant than he had remembered
+8098:Extremely Selfish: Wang Rong was extremely selfish
+8099:Break Up: Guan Ning cut a piece of grassmat as a sign of breaking relations with Hua Xin because Hua Xin was becoming greedy and jealous
+8100:Musical Connoisseur: Zhou Yu was good at music. He could find any mistakes as soon as people made them while playing music.
+8101:Handsome He: He Yan was very good-looking and was thus even regarded as the standard of handsome men.
+8102:Solo Hero: Most historical novels tell that Guan Yu and a few allies crashed a banquet hosted by their enemy. But it was Lu Su in the true history.
+8103:Unlimited Courage: Zhao Yun was absolutely fearless!
+8104:Emissary Killer: Cao Cao dressed as a guard and had a guard dress as the king when meeting the emissary of Xiong Nu
+8105:Wine Mate: Cheng Pu and Zhou Yu were good drinking buddies
+8106:Everybody Knows: Sima Zhao's ambition was obvious to every man in the street
+8107:No Homesick: Liu Shan told Emperor Wen of Jin he was not homesick after his homeland Shu was eliminated
+8108:Three Visits to the Hut: Liu Bei visited Zhuge Liang's thatched cottage three times to employ him
+8109:Comparison: When Mao Zeng and Xiahou Xuan sat side by side, it was very obvious who was ugly and who was good-looking
+8110:Very Nervous: This was Zhong Hui's fearsome answer to the question asked by Emperor Wen of Wei
+8111:Huge Improvement: Lu Meng studied hard and thus made fast progress
+8112:Real Estate Fan: Chen Deng despised Xu Si because Xu Si didn't seem to care about important work
+8113:Unworthy Title: Yang Hu's dancing crane didn't dance before guests, so people did not think it deserved its title
+8114:Humility: Chen Lin replied modestly when Zhang Xuan praised his writings
+8115:Door Marker: When Lu An visited Ji Kang, he wasn't at home, so Lu An wrote "feng" (phoenix) on his door and then left.
+8116:Smart Runner: Zhang Jian went to every house he saw to ask for shelter when he was trying to avoid being captured
+8117:Intrude Seven Times: Zhao Yun broke through innumerous troops of Cao Cao's time and again in the Battle of Chang Ban Slope
+8118:Solo VS Thousands: Wen Yang rode a horse and went into the middle of over one thousand enemy cavalry troops alone, but no enemy dared to approach him.
+8119:Lone Rider: Guan Yu rode alone for about one thousand miles and killed six enemy generals.
+8120:Avenger: Zhao E killed Li Shou the local tyrant to revenge her father
+8121:Talent of Copying: When he was young, the poor Kan Ze was often employed as a scribe, and it was discovered that he could easily recall everything he transcribed.
+8122:Brotherhood: When he was 4 years old, Kong Rong gave the bigger pears to his brothers and took the smallest one for himself.
+8123:Dutiful Son II: After meeting Yuan Shu, the 6 year-old Lu Ji brought back an orange for his mother, and Yuan Shu was touched by his filial piety.
+8124:Yang and Lu: Lu Kang and Yang Hu were foes, but they respected each other
+8125:Dutiful Son III: It's said that tender bamboo sprouts suddenly sprang up when Meng Zong cried in a bamboo forest because his mother was ill
+8126:Tiger Chaser: Even tigers feared Dian Wei. He once chased a tiger until it crossed a river.
+8127:200M Shooting: Using his excellent archery, Lu Bu once forced Yuan Shu to quit his plan to eliminate Liu Bei.
+8128:Remit Punishment: Wang Ling's rebellion made trouble for Guo Huai's wife, and Guo Huai finally got a special pardon from the emperor for her
+8129:Bribe with woman: Zang Ai once gave his father's lover to Deng Yang in exchange for an official position
+8130:Poisoning: Sima Yi killed Niu Jin with poison because of a rumor that said Sima's position would be replaced by Niu
+8131:Handsome Xun: Xun Yu liked to smell incenses and thus often smelled nice
+8132:The Battered-Body Trick: The ruse of self-injury played together by Zhou Yu and Huang Gai to win Cao Cao's trust
+8133:What Everyone Has: Jian Yong once insinuated Liu Bei's prohibition against alcoholic drinks
+8134:Substitute tea for wine: Wei Yao could not drink much wine, so Emperor Sun Hao secretly gave him tea water in place of wine in banquets
+8135:My Eye: Xiahou Dun pulled the arrow out with his left eyeball after his left eye was hit by an arrow and later ate the eyeball and continued to fight.
+8136:Bull Puller: When Xu Chu exchanged a bull with some bandits for food, he pulled the bull's tail and had it charge madly ahead. The bandits dispersed and he rode away with free food.
+8137:Secret Order: Emperor Xian gave an imperial edict to Dong Cheng asking him and his five acquaintances to murder Cao Cao.
+8138:Sky Talker: The conversation about heaven between Zhang Wen and Qin Mi
+8139:Fox Catcher: Zhang Wen saw through the fox who pretended to be a handsome young man
+8140:Unexpected books: It's said Zhang Yulan dreamt of being pregnant and birthed the ten golden books
+8141:Killer of Three Evils: It's said Zhou Chu often did evil when he was young but later started with a clean slate and even eliminated many monsters.
+8142:Famous Copying: People rushed to purchase paper to transcribe the [Ode to the Three Capitals] written by Zuo Si, which made paper rather expensive in Luo Yang.
+8143:Three Heroes Fighting Lu Bu: Liu Bei, Guan Yu and Zhang Fei once fought against Lu Bu in Hulao Pass, one by one in turn.
+8144:Book Stealer: Jiang Gan stole official documents made by Zhou Yu, which caused Cao Cao to kill two capable subordinates
+8145:Elephant Weights: Cao Chong smartly weighed an elephant by using a boat and knowledge of the principles of buoyancy
+8146:Vigorous Elder: Old but still strong like a young man
+8147:Avarice: Extremely greedy
+8148:Wine Lover: Extremely addicted to alcoholic drinks
+8149:Dutiful Son: Very obedient to parents
+8150:Generous: Generous, graceful, unhurried
+8151:Extreme Loyalty: Loyal and righteous
+8152:Lechery: Very fond of women
+8153:Wicked Woman: The woman is extremely cruel and merciless
+8154:Rob: Like to rob others of their possessions
+8155:Arrogant: Be very arrogant due to achievements made
+8156:Killing and Pillaging: Cruel, merciless and likes to commit murder and arson, capture beautiful ladies, and plunder treasures
+8157:Charitable: Like to do good
+8158:Beautiful: Natural beauty
+8159:Bright: Smart and clever
+8160:Tiger Daughter: Guan Yu said his daughter would not marry an incapable man
+8161:Tiger Son: Capable son
+8162:Exceedingly Beautiful: The woman is very beautiful and charming
+8163:Good virtue: The woman is gentle and virtuous
+8164:Forever Widow: The woman is undefiled and would rather die than remarry
+8165:Iced Wall: Lou Gui's advice to build hard fortifications fast by pouring water into sandy soil in the extremely cold night
+8166:Crouching Shield Formation: Ju Yi once used this formation to defeat Gongsun Zan's best cavalry troops
+8167:Drive Straight: The strategy used by Xu Huang to drive the enemies away from Fan Cheng
+8168:Right and Left Shot: The amazing skill mastered by Dong Zhuo to shoot using both hands while riding a horse
+8169:Fire Arrow: Hao Zhao used this strategy of burning arrows in the Battle of Chen Cang. It's the first use of this strategy on the battlefield in the world.
+8170:The Invincible: Only very few generals in the period of the Three Kingdoms deserved this title
+8171:Fire Boat Assault: Particularly skillful in raiding using fire ships
+8172:Ranged Raid: Xiahou Yuan's special ability to strike enemies surprisingly from a long distance
+8173:Empty City: The trick of presenting a bold front to conceal a weak defense
+8174:Shoot dodge: Ma Chao's special ability to dodge arrows
+8175:Snipe: The special ability to shoot enemy leaders by bow
+8176:Poison Arrow: The troops of Nan Man led by King Duosi excelled at shooting out poisonous arrows
+8177:Long Bow: Skillful in long shooting
+8178:Break Through: The ability to fight a way out when surrounded by enemies
+8179:Mountain Assault: The ability to cross over mountains and strike enemies surprisingly
+8180:Fire Resistance: The ability to prevent fire disasters
+8181:Attrition Warfare: The tactic to strike enemies in turn continually
+8182:Tunnel: The tactic to dig tunnels and later storm the target castle
+8183:Rapid Reinforcements: The battle in which Jia Kui made a rapid march to rescue Cao Xiu
+8184:Counter Attack: Ding Feng took off clothes while in heavy snow to motivate his troops. Later on, they badly defeated Cao Cao's troops.
+8185:Unique: Lu Bu's fearlessness against multiple opponents.
+8186:100 Riders Raid: Gan Ning once assaulted Cao Cao's barracks with 100 cavalry troops and returned without casualties
+8187:Imposing Prestige: Zhang Liao has assaulted Sun Quan's army with 800 infantries in Xiaoyao Ferry
+8188:Bridge Ambush: Zhang Fei shouted loudly in Changban Slope, scaring enemies
+8189:Floods Seven Armies: The battle in which Guan Yu flooded Fancheng and later captured Yu Jin and killed Pang De
+8190:Borrowing Arrows: The tactic used by Zhuge Liang to trick enemies into shooting out arrows to his boats
+8191:Eight Gates Formation: The formation used by Cao Ren in the Battle of Xinye
+8192:Delaying Tactic: A tactic of time wasting
+8193:Entrapment: Use the enemy's own stratagem against them
+8194:Reserve Food: Cheng Yu once made human flesh into food when Cao Cao's troops were short of food
+8195:Play it Safe: Jia Xu's great skill to protect himself in troubled times
+8196:Perfect Runner: An ability to escape quickly
+8197:Poison Resistance: An ability to avoid being poisoned by miasma in Nanzhong
+8198:Loyal Guard: Be loyal to the master
+8199:Reform Troops: An ability to rally defeated troops
+8200:Rally Scattered Troops: An ability to reorganize scattered troops
+8201:Invincibility: Wutugu the King of Wu Ge was well protected by scales and shells
+8202:Ignore Armor: Amour breaker
+8203:Battle Saint's Favor: It's said Guan Xing got his father Guan Yu the Battle Saint's favor to scare Pan Zhang and later killed Pan Zhang and got back his father's weapon.
+8204:Officer Assignment System: The bureaucratic establishment initiated by Wang Rong to make people govern a small town first before giving them an official position.
+8205:Nine Rank Judging System: The bureaucratic establishment initiated by Chen Qun, which was passed down for several hundred years
+8206:Calculated Cartography: The principles of drawing maps initiated by Pei Xiu, which were followed by many famous map drawers
+8207:White Powder Scripting: A special writing form invented by Cai Yong who got inspirations from whitewashers
+8208:24 Stories of Dutiful Sons: A collection of 24 stories of filial piety
+8209:Story of Ladies: A book recording virtuous women
+8210:Perfect Planner: Particularly good at tactical planning
+8211:Riddle: Especially good at working out puzzles
+8212:Heroine: A woman who is good at combat
+8213:Wonder Woman: A clever woman
+8214:Immortal: A cultivator who has become immortal
+8215:Valour and Vigour: Very brave and strong
+8216:Millionaire: Very rich
+8217:Hunter: Good at hunting
+8218:Squire: The big landlords in the Eastern Han dynasty had many farmlands, houses and even private troops
+8219:Butcher: A person who lives on killing domestic animals and selling their meat
+8220:Bandit: A person who lives on plundering treasures
+8221:Ranger: A wandering traveller who does good deeds
+8222:Farmer: Familiar with farming
+8223:Vendor: Vendor
+8224:Financing: Good at financial management and creating incomes
+8225:Mastery of Law: Familiar with penal codes and in charge of criminal cases
+8226:Law Impartially: Fair and impartial in enforcement of the law
+8227:Rapid Adjudication: Good at resolving law cases fast
+8228:Supercargo: Good at escorting various supplies
+8229:Bandit Defeater: Good at suppressing bandits
+8230:Hunting: Good at hunting beasts
+8231:Beast Killer: Able to fight beasts with unarmed hands
+8232:Asylum: Good at harbouring refugees/poor persons/national minorities
+8233:Relief: Deal with emergencies and provide disaster relief
+8234:Horse Picker: The ability to find out good horses
+8235:Crafting: Know how to forge and smelt iron
+8236:Disaster Prevention: Improve the ability to prevent disasters
+8237:Disaster Alert: Predict the coming disasters
+8238:Disease treatment: Give effective medical treatment to people at once when there is a plague
+8239:Epic Runner: Legendary ability to carry something weighing 250kg, and even travel 350km a day.
+8240:Spotter: Good at finding out able persons
+8241:Chooser: Appoint able persons as officials
+8242:Beneficence: Be kind-hearted and generous to get great public support
+8243:Teaching: The ability to pass on knowledge
+8244:Extreme Memory: An extraordinary memory
+8245:Repartee: Xun Chen persuaded Han Fu to give Ji Zhou to Yuan Shao
+8246:Sow Dissension: Drive a wedge between two forces, making them attack each other
+8247:Reverse Positions: Feng Ji suggested Yuan Shao to capture Ji Zhou
+8248:Steal: Good at stealing stuff
+8249:Extraordinary Power: Extraordinary strength
+8250:Assassinate: Good at assassinating enemy leaders
+8251:Fencing: Good at swordplay and fighting with hands
+8252:Grave Robber: The special ability to rob tombs
+8253:Map Maker: The ability to make maps
+8254:Silking: The ability to produce brocades
+8255:Gather Herbs: The ability to find herbs
+8256:Five-animal Boxing: A traditional fitness regimen of ancient China
+8257:Longevity: A good living habit to preserve health
+8258:Life Extension: Zhuge Liang's way to extend life using seven lamps
+8259:Charisma: The ability to recruit common people as soldiers
+8260:Elite Picker: The ability to find out excellent soldiers in conscription
+8261:Military Affairs: Good at organizing and training troops
+8262:Sharp Shooter: The ability to hit a small target from afar
+8263:Famous Commander: Extremely brave and strong soldiers
+8264:Brave Agent: Rides alone to the enemy camp and offers the enemy to surrender
+8265:Pioneer: The ability to climb up walls
+8266:You Shall Not Pass: Use a few troops to defend against numerous enemies
+8267:Sayings of Confucius: The masterpiece finished by Wang Su, which records sayings of Confucius and his students
+8268:Theory of Administration: The masterpiece finished by Wang Chang about legal systems
+8269:Wang Chang's Art of War: The masterpiece finished by Wang Chang about the art of war
+8270:Le Yi's Record on War: The masterpiece finished by Xiahou Xuan about Le Yi's battles against hostile states
+8271:Notes on Qianxiang Calendar: The book edited by Kan Ze about notes of Liu Hong's [Qianxiang Calendar]
+8272:Political Theory: The masterpiece of political comments finished by Huan Fan
+8273:The Classic of Filial Piety: The ancient Confucian masterpiece of ethics finished by Yan Jun
+8274:The Classic of Tidewater: [The Classic of Tidewater] finished by Yan Jun is the first treatise about tidewater in China
+8275:Principles of Losing and Winning: The article written by Guo Jia to encourage Cao Cao to conquer Yuan Shao
+8276:Ode to the Three Capitals: [Ode to the Three Capitals] finished by Zuo Si was very popular with people for hundreds of years
+8277:Annals of Taiwan: The first masterpiece about Taiwan
+8278:The History of the Three Kingdoms: The dynastic historical book finished by Chen Shou, a historian in the West Jin dynasty
+8279:Eighteen Songs of a Nomad Flute: The words of ancient music, written by Cai Wenji
+8280:Ode to the Goddess of the Luo River: A famous ode written by Cao Zhi, which was very popular for thousands of years
+8281:Cao Cao's Art of War: Cao Cao summarized his military career and finished this masterpiece about the art of war based on other masterpieces.
+8282:Guangling Verse: Ji Kang was good at playing this melody but he refused to teach it to anybody. Since he was murdered, the melody had been lost.
+8283:Elite Crossbowmen: The archers with extremely high defense, who are good at battling in mountains
+8284:Flying Bear Cavalry: Dong Zhuo's light cavalry troops
+8285:Wu's Royal Guard: A picked infantry army directly subordinate to the central government of Eastern Wu.
+8286:Heavy Spearmen: Lu Bu's best infantries led by Gao Shun
+8287:White Riders: The light cavalry troops organized by Gongsun Zan, each of whom rode a white horse
+8288:Armored Raiders: The soldiers of Wuge in Nanzhong, who wore rattan armor
+8289:Elite Rangers: Extremely brave soldiers from Dan Yang
+8290:Liang Cavalry: Heavily armored cavalry of Liang
+8291:Elite Raiders: Yuan Shao's special troops who are good at climbing up walls
+8292:Tiger Cavalry: Cao Cao's best heavily armored cavalry
+8293:Elite Pikemen: Yuan Shao's elite infantry army which is good at dealing with cavalry troops
+8294:Shu's Royal Guard: Liu Bei's elite troop of bodyguards, who brought up the rear in the Battle of Yiling
+8295:War Elephants: King Mulu's army of elephant riders
+8296:Wooden ox: The legendary transportation vehicle invented by Zhuge Liang
+8297:Improve Automatic Irrigation: Improve waterwheel
+8298:Improve Silk Loom: Improve the Silk Loom, making it work much more efficiently
+8299:Remake Compass Chariot: The legendary compass chariot made by Ma Jun.
+8300:Automatic Rice Husking: The machine improved by Du Yu to husk rice with several mortars and pestles at the same time
+8301:Improve Hydraulic Smelting: Han Ji spread the improved hydraulic blower, improving efficiency of forging iron a lot
+8302:Automatic Crossbow: The crossbow made by Zhuge Liang, which could reload automatically
+8303:Medical Skill: Know how to give medical treatment to people
+8304:Armament Manufacture: Good at making armaments
+8305:Shipbuilding: Good at building ships
+8306:Administer Education: Run schools to improve education.
+8307:Burned End Lyre: A legendary musical instrument made of burned wood
+8308:Keting Flute: A legendary musical instrument made of bamboo
+8309:Moon Guitar: An updated version of the pipa from the Western Regions
+8310:Powder of Five Minerals: The powder produced by He Yan, which can make whoever takes it mistakenly think they have become immortal
+8311:Abacus: It's said this abacus was invented by Guan Yu.
+8312:Timeless Prudence: Zhuge Liang was very prudent all his life.
+8313:Speedy March: The strategy proposed by Guo Jia during Cao Cao's campaign against Wu Wan
+8314:Make Mischief: Guo Tu's strategies included mischief and trickery
+8315:Fire on the River: The amazing strategy proposed by Zhou Yu to burn Cao Cao's boats on the river
+8316:Make a Feint: Xun Yu's strategy to strike Bai Ma surprisingly
+8317:Wait at Ease: Fa Zheng's strategy to kill Xiahou Yuan in Mount Dingjun
+8318:Burning of Shu's Camps: Lu Xun's classic stratagem to burn Liu Bei's camps in the Battle of Yiling
+8319:Interlocking Stratagems: The trick offered by Pang Tong to Cao Cao during the Battle of the Red Cliffs
+8320:Entrapment: The specific stratagem proposed by Tian Feng to Yuan Shao for dealing with Gongsun Zan
+8321:Scorched Earth Policy: The strategy of hiding supplies and holding position used by Sima Yi to deal with Zhuge Liang
+8322:Double-pronged Attack: The strategy proposed by Chen Gong to divide troops
+8323:Protracted War: The stratagem of prolonging war proposed by Ju Shou before the Battle of Guan Du to defeat Cao Cao
+8324:Block Enemy's Retreat: Jiang Wei's strategy of allowing troops of Wei to get into Han Zhong and later surrounding them
+8325:Disorganize Eight-diagram Lock Formation: Xu Shu saw through Cao Ren's Eight-diagram Lock Formation and disorganized it
+8326:Besiege a City to Annihilate the Enemy Reinforcements: The classic strategy used by Lu Kang in the Battle of Xi Ling to surround the city and strike the enemy reinforcements
+8327:Jia Xu's Trick: Jia Xu excels at using various tricks
+8328:Support from the Masses: Lu Su's ability to deal with both diplomatic affairs and internal affairs well
+8329:Overcome People with Virtue: The strategy used by Yan Hu in Jing Zhou to gain support by being virtuous
+8330:Brilliant Scheme: Xun Yu executed a surprising stratagem to break the stalemate during the Battle of Guan Du
+8331:At One Fling: The strategy proposed by Du Yun in the Battle of Jiangling to motivate troops
+8332:Bit Below the Belt: The classic battle in which Kuai Liang asked Lu Gong to ambush Sun Jian
+8333:Ambush and Raid: The classic battle in which Li Ru asked Lu Bu to ambush Cao Cao's pursuing forces
+8334:White Coat River Crossing: The classic battle in which Lu Bu's white robed forces chased relentlessly after Guan Yu
+8335:Psychological Offense First: The strategy proposed by Ma Su to win the Battle of Nan Zhong
+8336:Ambush on All Sides: The stratagem proposed by Cheng Yu during the Battle of Cang Ting
+8337:Burn Army Provisions Suddenly: The stratagem proposed by Xu You in the Battle of Guan Du to burn the military supplies in Wuchao surprisingly
+8338:Open City Gates Suddenly: The classic strategy used by Chen Deng in the Battle of Kuangqi to open the city gates and strike enemies suddenly
+8339:Tramp over Hills and Dales: Deng Ai's expertise in marching over hills and dales
+8340:Armament Expertise: Liu Yue's expertise in making and using armaments
+8341:Reckless Defense: The strategy used by Shen Pei to defend Ye
+8342:Instigate Rebellion: The tactic used by Zhong Hui to advise the enemies of Wu to surrender using counterfeit letters
+8343:Overcome Impetuosity and Exercise Patience: Zhang Xuan's advice to Sun Quan to avoid advancing rashly and taking risks in person
+8344:Supervise cavalry troops: Chenggong Ying's expertise in supervising cavalry troops in battle
+8345:Good Reason for Waging a War: The pre-war doctrine of righteousness
+8346:Teamwork of Reinforcements: Zhong Yao's expertise in improving the teamwork of reinforcement units
+8347:Cooperate with Absolute Sincerity: Feng Ji showed great generosity and impartiality as he answered Shen Pei's questions
+8348:Sounding it Out: The strategy proposed by Huang Quan in the Battle of Yi Ling to reveal the enemy's true strength
+8349:Awesome Deployment: Zhang Zhao's expertise in deploying supplies and troops
+8350:Replenish Troops: Jiang Wan's special expertise in collecting supplies, organizing transportation missions and replenishing troops
+8351:Restrain by Permit: The strategy proposed by Xin Pi to restrain Sima Yi under the permission of the emperor
+8352:Repel Reinforcements by Trick: Chen Gui's expertise in setting one party against another
+8353:Induce to Capitulate: The battle in which Dong Zhao entered the city and advised Xue Hong and Miao Shang to surrender
+8354:Reinforce at Night: The strategy proposed by Jiang Ji in the Battle of Wancheng to quickly reinforce Cao Xiu
+8355:Forestall the Enemy: The plan proposed by Kuai Yue to He Jin to kill the eunuchs as soon as possible
+8356:Emperor's Order: The strategy proposed by Huan Fan to Cao Shuang to deal with Sima Yi by seizing the emperor
+8357:See Through Tricks: Kan Ze's expertise in seeing through tricks, including the ruse of self-injury
+8358:Repartee: Xun Chen once persuaded Han Fu to surrender by offering a comparison of both side's forces
+8359:Turtle Formation: The classic tactic used by Tian Yu in the Yi River to deal with Wu Wan
+8360:Wait for the Highest Bid: Yan Pu once advised Zhang Lu to bargain first before he surrendered
+8361:See Through Ambushes: Yu Fan is able to foresee ambushers
+8362:The Blind Side: The tactic of marching through paths proposed by Tian Chou to Cao Cao
+8363:Brotherly Reunion: Wang Xiu advised Yuan Tan to get along well with his brothers
+8364:Terrain of Nanzhong: Familiarity with the terrain of Nan Zhong
+8365:Terrain of Hanzhong: Familiarity with the terrain of Han Zhong
+8366:Terrain of Bashu: Familiarity with the terrain of Ba Shu
+8367:Eight Battle Formations: The Eight Battle Formations often used by Zhuge Liang
+8368:Terrain of Shuobei: Familiarity with the terrain of Shuo Bei
+8369:Terrain of Liang: Familiarity with the terrain of Liang
+8370:Terrain of Jiaozhou: Familiarity with the terrain of Jiao Zhou
+8371:Terrain of Guanyou: Familiarity with the terrain of Guan You
+8372:Terrain of Liaodong: Familiarity with the terrain of Liao Dong
+8373:Terrain of Jingchu: Familiarity with the terrain of Jing Chu
+8374:Terrain of Wuzhong: Familiarity with the terrain of Wu Zhong
+8375:WuXi Warrior: The troops of Shan Yue, who are equipped with bows and short axes
+8376:Chu-ko-nu Squad: The troops who are equipped with the crossbows invented by Zhuge Liang
+8377:Shipbuilder: Specifically refers to people who can make warships.
+8378:Nine chapters of Arithmetic: Specifically refers to mathematicians who have special research and knowledge on arithmetic.
+8379:Excellent Assistant in the imperial court: Specifically refers to the talents who have extraordinary ability to manage state affairs.
+8380:Puppet Emperor: Specifically refers to Yuan Shu, who claimed himself as the emperor after taking the imperial jade seal.
+8381:Highest Beam of the North: Specifically refers to Han Meng, a subordinate of Yuan Shao. He is the "Highest Beam" in the "Four Pillars and One Highest Beam".
+9000:Gathering
+9001:Paddy Rice
+9002:Fishing
+9003:Stockbreeding
+9004:Hunting
+9005:Cattle Ploughing
+9006:Drill Plough
+9007:Irrigation
+9008:Groundwater
+9009:Rice Husking
+9010:Canals
+9011:Automatic Rice Husking
+9012:Cofferdam
+9013:Automatic Irrigation
+9014:Mining
+9015:Mineral Smelting
+9016:Iron Casting
+9017:Hydraulic Smelting
+9018:Coal Smelting
+9019:Salt Preservation
+9020:Sericulture
+9021:Textile
+9022:Wine Making
+9023:Ceramics
+9024:Lacquer Work
+9025:Silk Loom
+9026:Shield
+9027:Crossbow
+9028:Spear
+9029:Spike
+9030:Horse Armor
+9031:Leather Armor
+9032:Steel Armor
+9033:Mail Armor
+9034:Heavy Crossbow
+9035:Automatic Crossbow
+9036:Barricade
+9037:Catapult
+9038:Battering Ram
+9039:Ballista
+9040:Trebuchet
+9041:Siege Tower
+9042:Spear Cart
+9043:Fire Boat
+9044:Light WarshipⅠ
+9045:Light WarshipⅡ
+9046:Light WarshipⅢ
+9047:Warship
+9048:GreatshipⅠ
+9049:GreatshipⅡ
+9050:Ink
+9051:Paper
+9052:School
+9053:College
+9054:University
+9055:Examination
+9056:Quantitative Cartography
+9057:Farming Act
+9058:Prohibition Act
+9059:Border Tax
+9060:Census
+9061:Land Check
+9062:Talents-Seeking Decree
+9063:Plague Treatment
+9064:Bureaucratization of Local Headmen
+9065:Wooden Packhorse
+9066:Compass Chariot
+9067:Hospital
+9068:Woodwork
+9069:Embroidery
+9070:Compass
+9071:Wheel Barrow
+9072:Hook Shield
+9073:Caltrop
+9074:Flamethrower
+9075:Quantitative Cartography
+9076:Pharmacy
+9077:Brickworks
+9078:Oil Lamp Production
+9079:Steel Blade
+9080:Copper Work
+10000:Sort
+10001:Selected
+10002:Input
+10003:Blank
+10004:Confirm
+10005:Cancel
+10006:Officer's name
+10007:Color selection dialog
+10008:Han
+10009:Input
+10010:Select
+10011:Confirm
+10012:Cancel
+10013:Officer's Features Selection
+10014:Blank
+10015:Confirm
+10016:Cancel
+10017:Officer selection
+10018:Blank
+10019:Confirm
+10020:Cancel
+10021:Tech selection
+10022:Selectall
+10023:Blank
+10024:Confirm
+10025:Cancel
+11000:House of Three Dukes
+11001:Confucius Descendants
+11002:Yellow Turban
+11003:Royal Descendants
+11004:House of the Fire Spirit
+11005:Yellow Turban Leader
+11006:Wudoumi Religion
+11007:Nan Man King
+11008:Wu Xi King
+11009:Sun Tzu Descendants
+11010:Nan Man Ally
+11011:Xiong Nu Ally
+11012:Xian Bei Ally
+11013:Di Ally
+11014:Shan Yue Ally
+11015:Wu Wan Ally
+11016:Qiang Ally
+11017:Four Bandits
+11018:Bandits of Mount Tai
+11019:Dragon Brother
+11020:White Horse General
+11021:Four Beauties
+11022:Four Uglies
+11023:Five Tigers of House Han
+11024:Eight Master Generals
+11025:Eight Capable Ministers
+11026:Eight Talents
+11027:Two Generals of Guiyang
+11028:Zhuge's Friends
+11029:Eight of House Sima
+11030:Eight Captains of the West Palace
+11031:Tiger of the South East
+11032:Two Masters
+11033:God of Spears
+11034:Cao Pi's Friends
+11035:Huainan Rebels
+11036:Three Ministers of Wei
+11037:Three Conquerors of Wei
+11038:Five Elite Generals
+11039:Eight Gentlemen of Wei
+11040:Seven Writers of Han
+11041:Seven Wisdoms
+11042:Four Elites of Xiahou
+11043:Eight Tigers of House Cao
+11044:Four Wises of Wei
+11045:Six Governors
+11046:Three Dogs
+11047:The Zhang Twins
+11048:Five Ministers of Wu
+11049:Four Commanders of Wu
+11050:Twelve Tigers of Wu
+11051:Four Wises of Wu
+11052:Eight Artists of Wu
+11053:Four Remarkables of Xuzhou
+11054:Four Generals of Hebei
+11055:Eight Advisers of Hebei
+11056:Five Tigers of Jingnan
+11057:Ten Generals of Guanzhong
+11058:Four Generals of West Yi
+11059:Five Tiger Generals
+11060:Four Ministers of Shu
+11061:Four Rangers
+11062:Brocade Pirate
+11063:Doctor of South Jiaozhou
+11064:Pretty Guan
+11065:Crouching Dragon
+11066:Fledgling Phoenix
+11067:Lord Yang
+11068:Flying General
+11069:Snow Beauty
+11070:Bow Beauty
+11071:Lady Craft
+11072:Blader
+11073:Goddess of the Luo River
+11074:Domestic Scholar
+11075:Crazy Tiger
+11076:God of Archery
+11077:Top Counsellor
+11078:Script Originator
+11079:Young Overlord
+11080:Flying Rider
+11081:King of Spears
+11082:Ancient evil
+11083:Handsome Ma
+11084:Smart Liang
+11085:Justice of the Ocean
+11086:Noble Character
+11087:Recluse
+11088:Medical Sage
+11089:Originator of Acupuncture
+11090:Math Sage
+11091:Confucius Inheritor
+11092:Justice Minister
+11093:Three Skills
+11094:Winebibber
+11095:Dutiful Son I
+11096:Sweet Lover
+11097:Memory Faraway
+11098:Extremely Selfish
+11099:Break Up
+11100:Musical Connoisseur
+11101:Handsome He
+11102:Solo Hero
+11103:Unlimited Courage
+11104:Emissary Killer
+11105:Wine Mate
+11106:Everybody Knows
+11107:No Homesick
+11108:Three Visits to the Hut
+11109:Comparison
+11110:Very Nervous
+11111:Huge Improvement
+11112:Real Estate Fan
+11113:Unworthy Title
+11114:Humility
+11115:Door Marker
+11116:Smart Runner
+11117:Intrude Seven Times
+11118:Solo VS Thousands
+11119:Lone Rider
+11120:Avenger
+11121:Talent of Copying
+11122:Brotherhood
+11123:Dutiful Son II
+11124:Yang and Lu
+11125:Dutiful Son III
+11126:Tiger Chaser
+11127:200M Shooting
+11128:Remit Punishment
+11129:Bribe with woman
+11130:Poisoning
+11131:Handsome Xun
+11132:The Battered-Body Trick
+11133:What Everyone Has
+11134:Substitute tea for wine
+11135:My Eye
+11136:Bull Puller
+11137:Secret Order
+11138:Sky Talker
+11139:Fox Catcher
+11140:Unexpected books
+11141:Killer of Three Evils
+11142:Famous Copying
+11143:Three Heroes Fighting Lu Bu
+11144:Book Stealer
+11145:Elephant Weights
+11146:Vigorous Elder
+11147:Avarice
+11148:Wine Lover
+11149:Dutiful Son
+11150:Generous
+11151:Extreme Loyalty
+11152:Lechery
+11153:Wicked Woman
+11154:Rob
+11155:Arrogant
+11156:Killing and Pillaging
+11157:Charitable
+11158:Beautiful
+11159:Bright
+11160:Tiger Daughter
+11161:Tiger Son
+11162:Exceedingly Beautiful
+11163:Good virtue
+11164:Forever Widow
+11165:Iced Wall
+11166:Crouching Shield Formation
+11167:Drive Straight
+11168:Right and Left Shot
+11169:Fire Arrow
+11170:The Invincible
+11171:Fire Boat Assault
+11172:Ranged Raid
+11173:Empty City
+11174:Shoot dodge
+11175:Snipe
+11176:Poison Arrow
+11177:Long Bow
+11178:Break Through
+11179:Mountain Assault
+11180:Fire Resistance
+11181:Attrition Warfare
+11182:Tunnel
+11183:Rapid Reinforcements
+11184:Counter Attack
+11185:Unique
+11186:100 Riders Raid
+11187:Imposing Prestige
+11188:Bridge Ambush
+11189:Floods Seven Armies
+11190:Borrowing Arrows
+11191:Eight Gates Formation
+11192:Delaying Tactic
+11193:Entrapment
+11194:Reserve Food
+11195:Play it Safe
+11196:Perfect Runner
+11197:Poison Resistance
+11198:Loyal Guard
+11199:Reform Troops
+11200:Rally Scattered Troops
+11201:Invincibility
+11202:Ignore Armor
+11203:Battle Saint's Favor
+11204:Officer Assignment System
+11205:Nine Rank Judging System
+11206:Calculated Cartography
+11207:White Powder Scripting
+11208:24 Stories of Dutiful Sons
+11209:Story of Ladies
+11210:Perfect Planner
+11211:Riddle
+11212:Heroine
+11213:Wonder Woman
+11214:Immortal
+11215:Valour and Vigour
+11216:Millionaire
+11217:Hunter
+11218:Squire
+11219:Butcher
+11220:Bandit
+11221:Ranger
+11222:Farmer
+11223:Vendor
+11224:Financing
+11225:Mastery of Law
+11226:Law Impartially
+11227:Rapid Adjudication
+11228:Supercargo
+11229:Bandit Defeater
+11230:Hunting
+11231:Beast Killer
+11232:Asylum
+11233:Relief
+11234:Horse Picker
+11235:Crafting
+11236:Disaster Prevention
+11237:Disaster Alert
+11238:Disease treatment
+11239:Epic Runner
+11240:Spotter
+11241:Chooser
+11242:Beneficence
+11243:Teaching
+11244:Extreme Memory
+11245:Repartee
+11246:Sow Dissension
+11247:Reverse Positions
+11248:Steal
+11249:Extraordinary Power
+11250:Assassinate
+11251:Fencing
+11252:Grave Robber
+11253:Map Maker
+11254:Silking
+11255:Gather Herbs
+11256:Five-animal Boxing
+11257:Longevity
+11258:Life Extension
+11259:Charisma
+11260:Elite Picker
+11261:Military Affairs
+11262:Sharp Shooter
+11263:Famous Commander
+11264:Brave Agent
+11265:Pioneer
+11266:You Shall Not Pass
+11267:Sayings of Confucius
+11268:Theory of Administration
+11269:Wang Chang's Art of War
+11270:Le Yi's Record on War
+11271:Notes on Qianxiang Calendar
+11272:Political Theory
+11273:The Classic of Filial Piety
+11274:The Classic of Tidewater
+11275:Principles of Losing and Winning
+11276:Ode to the Three Capitals
+11277:Annals of Taiwan
+11278:The History of the Three Kingdoms
+11279:Eighteen Songs of a Nomad Flute
+11280:Ode to the Goddess of the Luo River
+11281:Cao Cao's Art of War
+11282:Guangling Verse
+11283:Elite Crossbowmen
+11284:Flying Bear Cavalry
+11285:Wu's Royal Guard
+11286:Heavy Spearmen
+11287:White Riders
+11288:Armored Raiders
+11289:Elite Rangers
+11290:Liang Cavalry
+11291:Elite Raiders
+11292:Tiger Cavalry
+11293:Elite Pikemen
+11294:Shu's Royal Guard
+11295:War Elephants
+11296:Wooden ox
+11297:Improve Automatic Irrigation
+11298:Improve Silk Loom
+11299:Remake Compass Chariot
+11300:Automatic Rice Husking
+11301:Improve Hydraulic Smelting
+11302:Automatic Crossbow
+11303:Medical Skill
+11304:Armament Manufacture
+11305:Shipbuilding
+11306:Administer Education
+11307:Burned End Lyre
+11308:Keting Flute
+11309:Moon Guitar
+11310:Powder of Five Minerals
+11311:Abacus
+11312:Timeless Prudence
+11313:Speedy March
+11314:Make Mischief
+11315:Fire on the River
+11316:Make a Feint
+11317:Wait at Ease
+11318:Burning of Shu's Camps
+11319:Interlocking Stratagems
+11320:Entrapment
+11321:Scorched Earth Policy
+11322:Double-pronged Attack
+11323:Protracted War
+11324:Block Enemy's Retreat
+11325:Disorganize Eight-diagram Lock Formation
+11326:Besiege a City to Annihilate the Enemy Reinforcements
+11327:Jia Xu's Trick
+11328:Support from the Masses
+11329:Overcome People with Virtue
+11330:Brilliant Scheme
+11331:At One Fling
+11332:Bit Below the Belt
+11333:Ambush and Raid
+11334:White Coat River Crossing
+11335:Psychological Offense First
+11336:Ambush on All Sides
+11337:Burn Army Provisions Suddenly
+11338:Open City Gates Suddenly
+11339:Tramp over Hills and Dales
+11340:Armament Expertise
+11341:Reckless Defense
+11342:Instigate Rebellion
+11343:Overcome Impetuosity and Exercise Patience
+11344:Supervise cavalry troops
+11345:Good Reason for Waging a War
+11346:Teamwork of Reinforcements
+11347:Cooperate with Absolute Sincerity
+11348:Sounding it Out
+11349:Awesome Deployment
+11350:Replenish Troops
+11351:Restrain by Permit
+11352:Repel Reinforcements by Trick
+11353:Induce to Capitulate
+11354:Reinforce at Night
+11355:Forestall the Enemy
+11356:Emperor's Order
+11357:See Through Tricks
+11358:Repartee
+11359:Turtle Formation
+11360:Wait for the Highest Bid
+11361:See Through Ambushes
+11362:The Blind Side
+11363:Brotherly Reunion
+11364:Terrain of Nanzhong
+11365:Terrain of Hanzhong
+11366:Terrain of Bashu
+11367:Eight Battle Formations
+11368:Terrain of Shuobei
+11369:Terrain of Liang
+11370:Terrain of Jiaozhou
+11371:Terrain of Guanyou
+11372:Terrain of Liaodong
+11373:Terrain of Jingchu
+11374:Terrain of Wuzhong
+11375:WuXi Warrior
+11376:Chu-ko-nu Squad
+11377:Shipbuilder
+11378:Nine chapters of Arithmetic
+11379:Excellent Assistant in the imperial court
+11380:Puppet Emperor
+11381:Highest Beam of the North
+12000:Select:
+12001:No.
+12002:Full Name
+12003:Select:
+12004:Create directory failure
+12005:Error
+12010:Officer Selection Window
+12011:Officer's Abilities
+12012:Color Selection Dialog
+12013:Officer's Features
+12014:Officer Selection
+12015:Tech Selection
+12020:Effective after restarting the application
+12021:Tips
+12022:Failed to open the file!
+12023:Error
+12024:File format is incorrect!
+12025:File import completed!
+12026:Import
+12027:File export completed!
+12028:Export
+
